@@ -1,0 +1,69 @@
+# Apunts
+### Tipus de proves segons la seva interacció amb el codi
++ **Proves dinamicas**
+    + S'executa el codi 
++ **Proves estaticas**
+    + No s'executa el codi
+
+### Tipus de proves segons lo observat
++ **Proves de "caixa negra"**
+    + Nomes es te en conta el input i output
++ **Proves de "caixa blanca"**
+    + Es te en compte el input, el process i el output
+
+### Tipus de proves segons requisits
++ **Proves funcionals**
+    + Nomes s'evalua la capacitat del software de asolir els requisits buscats per el client
+    + Tipus de proves **Funcionals**
+         + Unitarias
+        + de Regersió
+        + de Integració
+        + de "Fum"
+        + de Acceptació
++ **Proves no funcionals**
+    + S'evaluan aspectes externs a la simple capacitat d'asolir les tasques basiques, es mira seguretat, eficacia, eficiencia, etc.
+    + Tipus de proves **No Funcionals**
+        + de Usabilitat
+        + de Rendiment
+        + de Stress
+        + de Seguretat
+        + de Compatibilitat
+
+### Tipus de proves segons el metode d'execució de la mateixa
+
++ **Manual**
+    + Un huma fa la prova
++ **Automatic**
+    + Software fa la prova
+
+### Tipus revisio de calitat
+
++ **Aseguracio de qualitat (QA)**
+    + Te en compte la qualitat del process
++ **Control de qualitat (QC)**
+    + Te en compte la qualitat del producte final
+
+### Factors de calitat
++ Correcció
+    + Que funcioni be
++ Fiablitat
+    + Que funcioni cada vegada
++ Eficiencia
+    + Que no gasti recursos inecessariament
++ Seguretat
+    + Que no posi en risc inecessari algo de valor
++ Facilitat d'us
+    + Que sea intuitiu
++ Mantenibilitat
+    + Que es pugui mantindre a traves del temps
++ Flexibilitat
+    + Que es pugui utilitzar per a varies coses sense gaire dificultat
++ Facilitat de prova
+    + Que sigui facil de realitzar proves
++ Portabilitat
+    + Que no ligui al client a un lloc o sistema si no es desitjat
++ Reutilizabilitat
+    + Qua serveixi per mes que un projecte especific
++ Interoperativitat
+    + Que no dificulti el treball del client al interactuar amb altres programes u ordinadors
+
